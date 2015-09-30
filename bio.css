@@ -1,17 +1,18 @@
 h1{
 	font-family: 'Quicksand', sans-serif;
-	position: center;
+	text-align: center;
 }
 
 h2{ 
 	font-family: 'Quicksand', sans-serif;
-	font-style: italic;
-	width: 50%;
-	position: center;
+	text-align: center;
 }
 
 body{ 
 	background-color:#5e3c58;
+	text-align: center;
+	padding: 5%;
+	font-family: tahoma, sans-serif;
 }
 
 
@@ -20,17 +21,15 @@ body{
 }
 
 p{
-	display: inline;
-	position: left;
-	width: 70%;
-	padding: .5%;
+	text-align: center;
+	padding: 1%;
 	border-width: .15cm
 }
 
 #frankie1{
 	display: inline-block;
 	width: 50%;
-	position: right;
-	border-style: solid;
 	border-color: #000000;
 }
+	position: center;
+	border-style: solid;
