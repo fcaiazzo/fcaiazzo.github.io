@@ -1,6 +1,8 @@
 h1{
 	text-align: center;
+	margin: 0 auto;
 	font-family: 'Quicksand', sans-serif;
+	width: 50%;
 	letter-spacing: .3cm;
 	border-style: inset;
 	border-width: 25%;
@@ -8,7 +10,7 @@ h1{
 }
 
 h3{
-	text-align: center;g
+	text-align: center;
 	font-family: 'Quicksand', sans-serif;
 }
 

@@ -1,14 +1,41 @@
-body {
+#inner{
+	margin: 0 auto;
+	width: 70%;
+}
+
+h1 {
+	text-align: center;
+	margin: 0 auto 20px auto;
+	font-family: 'Quicksand', sans-serif;
+	border-style: inset;
+	border-width: 25%;
+	background-color: #c7bbc9
+}
+
+.name {
+	font-weight: bolder;
+}
+
+h2 {
+	font-family: 'Quicksand', sans-serif;
 	text-align: left;
-	width: 60%;
+}
+
+body {
+	font-family: arial, sans-serif;
+	text-align: left;
 	padding: .5%;
-	background-color: red;
+	background-color: #5e3c58;
 }
 
 .employer{
 	font-weight: bold;
 }
 
-h2{
-	font-color: navy;
+.position{
+	font-style: italic;
+}
+
+.GHC{
+	font-weight: bold;
 }

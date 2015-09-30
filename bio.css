@@ -1,6 +1,10 @@
 h1{
-	font-family: 'Quicksand', sans-serif;
 	text-align: center;
+	margin: 0 auto 20px auto;
+	font-family: 'Quicksand', sans-serif;
+	border-style: inset;
+	border-width: 25%;
+	background-color: #c7bbc9;
 }
 
 h2{ 
@@ -46,5 +50,5 @@ p{
 	height: 100%;
 	width: 70%;
 	border-color: #000000;
-	border-style: solid;
+	border-style: inset;
 }
