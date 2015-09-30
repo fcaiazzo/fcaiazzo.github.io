@@ -1,0 +1,36 @@
+h1{
+	font-family: georgia;
+	position: center;
+}
+
+h2{ 
+	font-family: georgia;
+	font-style: italic;
+	width: 50%;
+	position: center;
+}
+
+body{ 
+	background-color:#5e3c58;
+}
+
+
+#container{
+	display: inline;
+}
+
+p{
+	display: inline;
+	position: left;
+	width: 70%;
+	padding: .5%;
+	border-width: .15cm
+}
+
+#frankie1{
+	display: inline-block;
+	width: 50%;
+	position: right;
+	border-style: solid;
+	border-color: #000000;
+}

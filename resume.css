@@ -1,0 +1,14 @@
+body {
+	text-align: left;
+	width: 60%;
+	padding: .5%;
+	background-color: red;
+}
+
+.employer{
+	font-weight: bold;
+}
+
+h2{
+	font-color: navy;
+}
