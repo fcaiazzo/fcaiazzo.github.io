@@ -35,9 +35,18 @@ div#climbing{
 	height: 100%;
 }
 
+div#work{
+	width: 60%;
+	float: left;
+	overflow: hidden;
+	height: 100%;
+}
 
-#container{
-	display: inline;
+div#coffee{
+	width: 40%;
+	float: left;
+	overflow: hidden;
+	height: 100%;
 }
 
 p{
@@ -45,7 +54,7 @@ p{
 	text-align: left;
 }
 
-#frankie1{	
+img{	
 	height: 100%;
 	width: 70%;
 	border-color: #000000;
